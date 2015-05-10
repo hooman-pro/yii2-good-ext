@@ -1,0 +1,14 @@
+1- jdate and datepicker
+git hub: 
+https://github.com/MrMiM/yii2-jdate
+composer install:
+composer require --prefer-dist mohammad-mahdy/yii2-jdate "*"
+packagist link:
+https://packagist.org/packages/mohammad-mahdy/yii2-jdate
+2- jdf
+git hub:
+https://github.com/hooman-pro/yii2-jdf
+composer install
+composer require --prefer-dist hooman.mirghasemi/yii2-jdf "*"
+packagist
+https://packagist.org/packages/hooman.mirghasemi/yii2-jdf
