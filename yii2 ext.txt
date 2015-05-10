@@ -12,3 +12,12 @@ composer install
 composer require --prefer-dist hooman.mirghasemi/yii2-jdf "*"
 packagist
 https://packagist.org/packages/hooman.mirghasemi/yii2-jdf
+3- select 2
+git hub:
+https://github.com/kartik-v/yii2-widget-select2
+composer install
+composer require kartik-v/yii2-widget-select2 "*"
+packegist:
+https://packagist.org/packages/kartik-v/yii2-widget-select2
+demo:
+http://demos.krajee.com/widget-details/select2
