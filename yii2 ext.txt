@@ -1,18 +1,21 @@
-1- jdate and datepicker
+1- 
+jdate and datepicker
 git hub: 
 https://github.com/MrMiM/yii2-jdate
 composer install:
 composer require --prefer-dist mohammad-mahdy/yii2-jdate "*"
 packagist link:
 https://packagist.org/packages/mohammad-mahdy/yii2-jdate
-2- jdf
+2- 
+jdf
 git hub:
 https://github.com/hooman-pro/yii2-jdf
 composer install
 composer require --prefer-dist hooman.mirghasemi/yii2-jdf "*"
 packagist
 https://packagist.org/packages/hooman.mirghasemi/yii2-jdf
-3- select 2
+3- 
+select 2
 git hub:
 https://github.com/kartik-v/yii2-widget-select2
 composer install
@@ -21,3 +24,10 @@ packegist:
 https://packagist.org/packages/kartik-v/yii2-widget-select2
 demo:
 http://demos.krajee.com/widget-details/select2
+4- 
+image displayer
+git hub:
+https://github.com/pavlinter/yii2-display-image
+pakegist:
+https://packagist.org/packages/pavlinter/yii2-display-image
+این اکستنشن برای ریساز خودکار تصاویر در موقع نمایش آن ها است
