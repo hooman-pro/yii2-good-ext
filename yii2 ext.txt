@@ -31,3 +31,8 @@ https://github.com/pavlinter/yii2-display-image
 pakegist:
 https://packagist.org/packages/pavlinter/yii2-display-image
 این اکستنشن برای ریساز خودکار تصاویر در موقع نمایش آن ها است
+5- 
+Image Ajax Uploader (DropZone.js)
+composer require --prefer-dist perminder-klair/yii2-dropzone "dev-master" 
+How To Use :
+http://www.digitalaholic.com/upload-files-yii2-dropzone/
