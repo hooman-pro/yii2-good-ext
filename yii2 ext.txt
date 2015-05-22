@@ -36,3 +36,8 @@ Ajax Image Uploader (DropZone.js)
 composer require --prefer-dist perminder-klair/yii2-dropzone "dev-master" 
 How To Use :
 http://www.digitalaholic.com/upload-files-yii2-dropzone/
+6 - این یک اکستنشن نیست بلکه یک پروژه پایه است که به نظرم خیلی خوب بود برای یاد گیری yii2
+به این فایل اضافه کردم تا ازش استفاده کنید:
+git hub:
+https://github.com/vova07/yii2-start
+لینک دمو هم داره
