@@ -41,3 +41,12 @@ http://www.digitalaholic.com/upload-files-yii2-dropzone/
 git hub:
 https://github.com/vova07/yii2-start
 لینک دمو هم داره
+7 - bootstrap-rtl
+yii:
+http://www.yiiframework.com/extension/bootstrap-rtl/
+composer:
+composer require --prefer-dist airani/yii2-bootstrap-rtl
+github:
+https://github.com/airani/yii2-bootstrap-rtl
+packagist:
+https://packagist.org/packages/airani/yii2-bootstrap-rtl
