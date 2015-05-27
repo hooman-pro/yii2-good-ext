@@ -50,3 +50,9 @@ github:
 https://github.com/airani/yii2-bootstrap-rtl
 packagist:
 https://packagist.org/packages/airani/yii2-bootstrap-rtl
+8- url locator
+composer:
+composer require codemix/yii2-localeurls
+github:
+https://github.com/codemix/yii2-localeurls
+
