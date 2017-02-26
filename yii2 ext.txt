@@ -57,3 +57,5 @@ github:
 https://github.com/codemix/yii2-localeurls
 9 - i18n , db translator:
 https://github.com/zelenin/yii2-i18n-module
+10 - device detector:
+https://github.com/alexandernst/yii2-device-detect
