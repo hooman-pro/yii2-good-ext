@@ -27,7 +27,7 @@ http://demos.krajee.com/widget-details/select2
 4- 
 image displayer
 git hub:
-https://github.com/pavlinter/yii2-display-image
+https://github.com/pavlinter/yii2-display-image2
 pakegist:
 https://packagist.org/packages/pavlinter/yii2-display-image
 این اکستنشن برای ریساز خودکار تصاویر در موقع نمایش آن ها است
